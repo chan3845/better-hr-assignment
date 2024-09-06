@@ -1,2 +1,5 @@
 # better-hr-assignment
-Better HR Assignment
+Login Credential
+================
+email: admin@app.com
+password: password
