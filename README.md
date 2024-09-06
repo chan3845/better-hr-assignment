@@ -5,5 +5,7 @@ Test URL
 
 Login Credential
 ================
-email: admin@app.com
-password: password
+email: admin@example.com
+password: 123
+
+**NOTE: Login button only appears in Desktop mode.** 
